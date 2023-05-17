@@ -1,4 +1,10 @@
 test github
 everything ok
 try to make confliction 
+<<<<<<< HEAD
 conflict test 
+=======
+resolve conflict 
+
+
+>>>>>>> 7027ec81efa526bf8d655fe40a9a703f5d8db65a
