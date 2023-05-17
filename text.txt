@@ -1,4 +1,6 @@
 test github
 everything ok
 try to make confliction 
-try to make confliction again 
+resolve conflict 
+
+
